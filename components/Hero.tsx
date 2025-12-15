@@ -42,7 +42,7 @@ export const Hero: React.FC = () => {
         <div className="mt-16 relative w-full max-w-5xl mx-auto animate-fade-in-up" style={{ animationDelay: '0.5s' }}>
           <div className="relative rounded-xl border border-white/10 shadow-2xl overflow-hidden flex flex-col animate-float bg-[#121212]">
             <img
-              src="https://i.imagesup.co/images2/3dc18fa62df4f6e9bf7727114626f67b5bea739a.png"
+              src="https://i.imagesup.co/images2/3685df94f354a020fd858153cf1a20f9d02bf58d.png"
               alt="Localify Interface"
               className="w-full h-auto object-cover"
             />
