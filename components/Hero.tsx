@@ -15,7 +15,7 @@ export const Hero: React.FC = () => {
             <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-brand-light opacity-75"></span>
             <span className="relative inline-flex rounded-full h-2 w-2 bg-brand"></span>
           </span>
-          Version 1.0 Available Now
+          Version 1.1 Available Now
         </div>
 
         <h1 className="text-5xl md:text-7xl font-black text-white tracking-tight leading-tight animate-fade-in-up" style={{ animationDelay: '0.1s' }}>
