@@ -24,7 +24,7 @@ export const DownloadSection: React.FC = () => {
               </div>
               <button
                 className="w-full py-4 px-6 bg-brand hover:bg-brand-dark text-white rounded-full font-bold text-lg flex items-center justify-center gap-2 transition-all duration-300 ease-out hover:scale-105 shadow-lg shadow-brand/20"
-                onClick={() => window.open('https://mega.nz/file/57pzlZKQ#LBLuF3Cp19YsJEBHJWmOtipH2ryRFdqKQ8_dW0xGU5M', '_blank')}
+                onClick={() => window.open('https://mega.nz/file/R7ohmLpA#oz6iRGemkwKPddsM679cfwY-no5-qwdIbOUgwJRGkvQ', '_blank')}
               >
                 <Download size={20} />
                 Download for Windows
