@@ -15,7 +15,7 @@ export const Hero: React.FC = () => {
             <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-brand-light opacity-75"></span>
             <span className="relative inline-flex rounded-full h-2 w-2 bg-brand"></span>
           </span>
-          Version 1.1 Available Now
+          Version 1.2 Available Now
         </div>
 
         <h1 className="text-5xl md:text-7xl font-black text-white tracking-tight leading-tight animate-fade-in-up" style={{ animationDelay: '0.1s' }}>
@@ -42,7 +42,7 @@ export const Hero: React.FC = () => {
         <div className="mt-16 relative w-full max-w-5xl mx-auto animate-fade-in-up" style={{ animationDelay: '0.5s' }}>
           <div className="relative rounded-xl border border-white/10 shadow-2xl overflow-hidden flex flex-col animate-float bg-[#121212]">
             <img
-              src="https://i.imagesup.co/images2/3685df94f354a020fd858153cf1a20f9d02bf58d.png"
+              src="https://i.imagesup.co/images2/91bae13ab7b654fb1770d6ddf23a19374babaf6c.png"
               alt="Localify Interface"
               className="w-full h-auto object-cover"
             />
